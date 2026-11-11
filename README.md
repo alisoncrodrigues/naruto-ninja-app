@@ -34,7 +34,7 @@ O aplicativo consome a API Tenrai para obter os personagens:
 **1. Clone o repositório:**
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/alisoncrodrigues/naruto-ninja-app.git
 ```
 
 **2. Entre na pasta do projeto:**
